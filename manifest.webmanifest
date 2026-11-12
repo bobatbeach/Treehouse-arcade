@@ -1,0 +1,13 @@
+{
+  "name": "Treehouse Arcade",
+  "short_name": "Arcade",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#8fd3ff",
+  "theme_color": "#8fd3ff",
+  "icons": [
+    { "src": "app-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "app-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
